@@ -17,7 +17,7 @@
     flex-direction: column;
     background-color: white;
     max-width: 20rem;
-    border-radius:15px;
+    border-radius:0.9375rem;
 }
 .qr-container img{
     max-width: 100%;
